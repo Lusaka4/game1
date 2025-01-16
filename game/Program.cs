@@ -3,7 +3,7 @@ using System.Threading;
 
 class DinoRunGame
 {
-    private const char Dino = '^';    // Dino representation
+    private const char Dino = '&';    // Dino representation
     private const char Obstacle = '#'; // Obstacle representation
     private const char EmptySpace = ' '; // Empty space
 
